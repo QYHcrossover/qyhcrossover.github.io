@@ -1,0 +1,79 @@
+---
+title: 算法心得0118
+tags:
+- 算法
+- STL
+categories:
+- 算法
+---
+
+## set的使用方法
+
+- 插入 `A.insert(item)`
+
+  - `pair< set<type>::iterator,bool >`是`insert`的返回值
+
+  ```c++
+    typedef set<int>::iterator IT;
+    int a[5] = { 3,4,6,1,2 };
+    set<int> st(a,a+5);    // st里是 1 2 3 4 6
+    pair< IT,bool> result;
+    if(st.insert(5).second)
+    	cout << * result.first  << endl;
+    else
+    	cout << * result.first << " already exists" << endl;
+  ```
+
+- 删除 `A.erase(item)`
+
+- 查找 `A.find(k)` 返回一个set的迭代器
+
+## map的使用方法
+
+- 定义 `map<string,int> student;`
+- 赋值 `student["Tom"]=15`
+- 查找 `student["Tom"]`直接表示它的id
+
+## sort的使用方法
+
+- 数组和vector都能使用
+
+```c++
+int a[5] = {1,5,2,4,3};
+sort(a,a+5);
+vector<int> v(a,a+5);
+sort(v.begin(),v.end()+5);
+```
+
+- 默认为`less`即从小到大，如果需要从大到小需要：
+
+  `sort(v.begin(),v.end(),greater<int>())`
+
+- 如果是自定义类，需要改写`operator <`
+
+```c++
+struct student{
+    int sno;
+    string sname;
+    student(int a,string b){
+        sno = a;
+        sname = b;
+    }
+    bool operator< (const student &other)const{
+        return sno<other.sno;
+    }
+};
+
+int main(){
+    vector<student> students;
+    students.push_back(student(1,"qinyuheng"));
+    students.push_back(student(7,"qqq"));
+    students.push_back(student(6,"xiaoming"));
+
+    sort(students.begin(),students.end());
+    for(vector<student>::iterator it=students.begin();it!=students.end();it++){
+        cout<<it->sname<<' ';
+    }
+}
+```
+
