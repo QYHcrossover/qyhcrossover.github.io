@@ -1,0 +1,555 @@
+[33mcommit 48eb53670277e8b01f1f962f569e674c163917ea[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: QYHcrossover <1064780602@qq.com>
+Date:   Thu Jan 23 20:55:53 2020 +0800
+
+    fix
+
+[33mcommit 27597d1157b172ca6d2ecd8f8069637c92b78098[m
+Author: QYHcrossover <1064780602@qq.com>
+Date:   Thu Jan 23 20:15:40 2020 +0800
+
+    fix bug
+
+[33mcommit a62adbc4f3174d00e3305e1201d0252229cb7a80[m
+Author: QYHcrossover <1064780602@qq.com>
+Date:   Thu Jan 23 20:12:01 2020 +0800
+
+    second commit
+
+[33mcommit 0c8ef4e5b29966d88b8fd2669426fa833ba36a19[m
+Author: QYHcrossover <1064780602@qq.com>
+Date:   Mon Jan 20 14:24:49 2020 +0800
+
+    add on 1.20
+
+[33mcommit 10dc349f0a6397ec1daee0d705b0fbb0c2678d5b[m
+Author: QYHcrossover <1064780602@qq.com>
+Date:   Mon Jan 20 14:07:32 2020 +0800
+
+    add on 01-20
+
+[33mcommit af51a34ff6c223293fd5e6482fd3f3358b1dc41f[m
+Author: QYHcrossover <1064780602@qq.com>
+Date:   Mon Jan 20 13:36:18 2020 +0800
+
+    v1.0
+
+[33mcommit 7442d6c9acc7358fdd6fbc2a8b559daa6532438f[m
+Author: QYHcrossover <1064780602@qq.com>
+Date:   Sun Jan 19 22:05:07 2020 +0800
+
+    init
+
+[33mcommit cec072ee9a0cd1544163fb863badb752c05a05f2[m[33m ([m[1;33mtag: v5.1.2[m[33m)[m
+Merge: 1129350 53527bc
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Wed Nov 21 10:03:20 2018 +0800
+
+    Merge branch 'wildfirejs-master'
+
+[33mcommit 53527bc7034a590c1033258e005a00f4cbfd49db[m
+Merge: 1129350 f304f30
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Wed Nov 21 09:48:47 2018 +0800
+
+    Merge branch 'master' of git://github.com/wildfirejs/jekyll-theme-next into wildfirejs-master
+
+[33mcommit 1129350ba6571c9b532306e4bab55ce45dc16cc7[m
+Author: Simpleyyt <simpleyyt@gmail.com>
+Date:   Wed Nov 21 09:34:31 2018 +0800
+
+    Update dependencies
+
+[33mcommit fca42a42fb38b8f8211ff85a9de356b1a7a335bb[m
+Merge: 69340c2 25789c5
+Author: Simpleyyt <simpleyyt@gmail.com>
+Date:   Tue Nov 20 11:04:23 2018 +0800
+
+    Merge pull request #95 from Shiki-H/fix_mathjax
+    
+    Updated Mathjax Instruction
+
+[33mcommit 69340c2b9054b5246aad20b58a562bdb9a5db868[m
+Merge: 90b8dd6 14d1527
+Author: Simpleyyt <simpleyyt@gmail.com>
+Date:   Tue Nov 20 11:01:02 2018 +0800
+
+    Merge pull request #105 from tuliren/patch-1
+    
+    Fix busuanzi url
+
+[33mcommit 14d1527115770d59b155f77ba46e9c4089980c71[m
+Author: LiRen Tu <tuliren.git@outlook.com>
+Date:   Fri Oct 12 23:28:48 2018 +0800
+
+    Fix busuanzi url
+    
+    The old url has been deprecated.
+
+[33mcommit 25789c591ffd8476f12448e208cd091c6f79c564[m
+Author: shiki <shiki.he@hotmail.com>
+Date:   Fri Aug 31 16:27:30 2018 -0400
+
+    updated mathjax instruction
+
+[33mcommit f304f30d95af9f9f115f4813d41824c934e15747[m
+Author: Kang Cheng <kcheng@utilitywarehouse.co.uk>
+Date:   Thu Aug 23 22:51:26 2018 +0100
+
+    feat: add wildfire comment plug-in support
+
+[33mcommit 90b8dd6546e2cba8fdeca6a9f5a411215c99bc37[m
+Author: Simpleyyt <simpleyyt@gmail.com>
+Date:   Wed Jul 4 21:41:07 2018 +0800
+
+    Update README.md
+
+[33mcommit 629e49cd35500497ef338f6706a60af946448bbe[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Mon Jul 2 23:14:58 2018 +0800
+
+    fix #78
+
+[33mcommit 634f102e0c651c314acf856160f93fc1dfe05b05[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Sat Jun 23 22:09:47 2018 +0800
+
+    add CDATA to search.xml
+
+[33mcommit dcc3ba7954f19453c35a811eaca995aaac0e61c2[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Fri Jun 8 10:09:35 2018 +0800
+
+    fix code block display bug with line number on
+
+[33mcommit 2f582da06aea40eb317a0f9348d65fb614f7fd8f[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Fri Jun 8 00:16:38 2018 +0800
+
+    remove out of date comment
+
+[33mcommit c336bf412497a239f0f41fe6c299274e4a244644[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Thu Jun 7 23:37:42 2018 +0800
+
+    add code block line number feature
+
+[33mcommit 05bb2f41efd14573589ac596310dc044a11efbff[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Thu Jun 7 16:20:05 2018 +0800
+
+    refactor jekyll config map for main.scss
+
+[33mcommit 09a4c45a226bb3f2d4e164643030e07bc40aa51f[m
+Merge: 384943d 5406883
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Thu Jun 7 12:28:58 2018 +0800
+
+    Merge branch 'duzhen-master'
+
+[33mcommit 54068834a5847a7b2be9a2953e040f1b87a8ee9b[m
+Author: Zhen Du <zhen.du@outlook.com>
+Date:   Wed Jun 6 15:53:30 2018 -0400
+
+    update Gemfile dependents, fix unvalid date in the YAML front matter issues[https://github.com/jekyll/jekyll/issues/5267], modify .gitignore
+
+[33mcommit 384943de94a6bacd755127e71cafe97a87bbb84b[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Thu Jun 7 01:31:51 2018 +0800
+
+    add support for jemoji
+
+[33mcommit 71af34841e4b724a9a0d058b2e7253c227476346[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Mon Apr 9 17:17:02 2018 +0800
+
+    fix #62: bug with chinese category
+
+[33mcommit 7fca56d71c6dae5a86ee6e3eda17e86e722c66c5[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Mon Mar 12 17:06:27 2018 +0800
+
+    change gitalk default to false
+
+[33mcommit 4ce69af354c77de979747672057baa29c68fb385[m
+Merge: b291a98 0ed50c7
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Mon Mar 12 17:05:22 2018 +0800
+
+    git push origin masterMerge branch 'colingpt-master'
+
+[33mcommit 0ed50c74662c3afdba270effd1e33096fdcd9ee1[m
+Author: Colin <colingpt@users.noreply.github.com>
+Date:   Tue Mar 6 16:52:13 2018 +0800
+
+    Update _config.yml
+
+[33mcommit 0609bed7679a066d3f7fa2a910137fb9f7edff8e[m
+Author: Colin <colingpt@users.noreply.github.com>
+Date:   Tue Mar 6 16:41:47 2018 +0800
+
+    Update gitalk.html
+
+[33mcommit 89f600e52cf365b43fb30a255cb997f0963164c4[m
+Author: Colin <colingpt@users.noreply.github.com>
+Date:   Tue Mar 6 16:39:25 2018 +0800
+
+    Update _config.yml
+
+[33mcommit 86ff00af43f761873a43d3982d03c453381178ec[m
+Author: Colin <colingpt@users.noreply.github.com>
+Date:   Tue Mar 6 16:35:46 2018 +0800
+
+    Update gitalk.html
+
+[33mcommit 3061f8c5891330cbefec84b0c7f7a9ed38105656[m
+Author: Colin <colingpt@users.noreply.github.com>
+Date:   Tue Mar 6 16:21:29 2018 +0800
+
+    Update gitalk.html
+
+[33mcommit ab27c3cac130a7c95aa7d35e6c48f9ed7c2301b5[m
+Author: Colin <colingpt@users.noreply.github.com>
+Date:   Mon Mar 5 16:42:04 2018 +0800
+
+    Update gitalk.html
+
+[33mcommit f1d74ddef60ce567364b55c7850baa6783258732[m
+Author: Colin <colingpt@users.noreply.github.com>
+Date:   Mon Mar 5 16:40:24 2018 +0800
+
+    Update index.html
+
+[33mcommit 90091097b098454692ac2c16ec013ee496d431e0[m
+Author: Colin <colingpt@users.noreply.github.com>
+Date:   Mon Mar 5 16:39:39 2018 +0800
+
+    Update comments.html
+
+[33mcommit 6c140ee0993bc6853543db8b8c1856618247cb72[m
+Author: Colin <colingpt@users.noreply.github.com>
+Date:   Mon Mar 5 16:37:12 2018 +0800
+
+    Update gitalk.html
+
+[33mcommit e0dd552eac2fac0f22cdf8ca81dff680dab84255[m
+Author: Colin <colingpt@users.noreply.github.com>
+Date:   Mon Mar 5 16:36:19 2018 +0800
+
+    Update comments.html
+
+[33mcommit 43e693d919b8e40a9df2b8f77a45ba1edb5f255a[m
+Author: Colin <colingpt@users.noreply.github.com>
+Date:   Mon Mar 5 16:29:41 2018 +0800
+
+    Update _config.yml
+
+[33mcommit 8b3f642503fb8be738bec774b0fe3ece0e584a99[m
+Author: Colin <colingpt@users.noreply.github.com>
+Date:   Mon Mar 5 16:26:34 2018 +0800
+
+    Update comments.html
+
+[33mcommit d7edbdcd02fb6db18b2ddaf1f58c57a723bffdfa[m
+Author: Colin <colingpt@users.noreply.github.com>
+Date:   Mon Mar 5 16:25:10 2018 +0800
+
+    Update index.html
+
+[33mcommit fbc413991f77cb021d4fb61a96638a8564b0f4d0[m
+Author: Colin <colingpt@users.noreply.github.com>
+Date:   Mon Mar 5 16:24:06 2018 +0800
+
+    Create gitalk.html
+
+[33mcommit b291a98b07ed900f65fc097c577c36f7aa615dee[m[33m ([m[1;33mtag: v5.1.1[m[33m)[m
+Merge: 76ed2ca 768282d
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Mon Feb 5 09:30:20 2018 +0800
+
+    Merge branch 'izhizheng-master'
+
+[33mcommit 768282d2927a8599d7b93c591162d91e81ba4ab9[m
+Author: Zhizheng Zhang <zhizheng118@googlemail.com>
+Date:   Sun Feb 4 16:13:48 2018 +0800
+
+    Fix the delimiter error of post categories
+    
+    一篇文章有多个分类时，最后一个分类后面多一个逗号。问题由变量名称错误导致，应该将 loop 改为 forloop。
+
+[33mcommit 76ed2ca3988774a16d86264c6d1b41d1c686c28f[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Fri Jan 26 09:51:55 2018 +0800
+
+    fix #50
+
+[33mcommit 8e0e50d6643443d3755ce43faca5064609784f3b[m
+Merge: 9409079 253fc6e
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Tue Jan 23 20:01:30 2018 +0800
+
+    Merge branch 'izhizheng-master'
+
+[33mcommit 253fc6ed972fa900e497f385d3368c1ea354f8e5[m
+Author: Zhizheng Zhang <zhizheng118@googlemail.com>
+Date:   Mon Jan 22 16:16:36 2018 +0800
+
+    Fix the title bug again
+    
+    根据 Simpleyyt 意见，重新修改引起标题错误相关文件：
+    1. _includes\_blocks\title.html 中使用 __.title.xxx 引用国际化内容；
+    2. _includes\_helper\open_graph.html 中 title 变量修改为 og_title；
+    3. _includes\_helper\toc.html 中 title 变量修改为 toc_title；
+    4. 为使国际化在标题中生效， categories/index.md tags/index.md about/index.md 删除了头中的 title，并修改 _includes\_partials\page-header.html，以便在 post-header 下显示标题；
+    5. 修改所有国际化文件，在 title 下添加   archives、 categories、tags 和 about  四个变量。
+
+[33mcommit 5cfed2a85054fa44d5c55accf2586004e484e960[m
+Author: Zhizheng Zhang <zhizheng118@googlemail.com>
+Date:   Mon Jan 22 10:29:45 2018 +0800
+
+    Fix the post copyright bug
+    
+    修复文章页版权信息“本文链接”后的冒号不显示的问题
+
+[33mcommit 2180f98cfc83227d3573c622c8a6904dbb0534f3[m
+Author: Zhizheng Zhang <zhizheng118@googlemail.com>
+Date:   Sun Jan 21 18:44:06 2018 +0800
+
+    Fix the title bug
+    
+    1. 修复 html title 不显示站点名称（site.title）的问题；
+    2. 修复 html title 国际化显示不正确的问题。
+
+[33mcommit 94090793f7879d4486cb704c6dc383306b63741e[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Tue Jan 9 22:44:45 2018 +0800
+
+    update nokogiri to 1.8.1
+
+[33mcommit 6a3d8ebf0b38b64c6d93462e12f58fa150f55bf6[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Tue Jan 9 22:36:30 2018 +0800
+
+    add Gemfile.lock
+
+[33mcommit bda2cfaf8e799ee9a3fbd43d20d0a88a0a414608[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Tue Jan 9 22:35:19 2018 +0800
+
+    stripe html and escape xml in search.xml
+
+[33mcommit bf5cd59b4860b2e2232f8ecd986789373c2a1911[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Fri Oct 6 19:19:41 2017 +0800
+
+    fix #31
+
+[33mcommit 84f0c95d1ae40607e454205c5e714746dde343ac[m
+Author: Simpleyyt <simpleyyt@gmail.com>
+Date:   Fri Oct 6 10:59:56 2017 +0800
+
+    Update README.en.md
+
+[33mcommit 6efca01e8a90fa5fff3f5e97e6f00a06ac0bf8a7[m
+Author: Simpleyyt <simpleyyt@gmail.com>
+Date:   Fri Oct 6 10:59:01 2017 +0800
+
+    Update README.md
+
+[33mcommit e7b845e1897f1aa29ff45d2f718e4712be787b82[m
+Author: Simpleyyt <simpleyyt@gmail.com>
+Date:   Tue Oct 3 09:16:43 2017 -0500
+
+    Update README.en.md
+
+[33mcommit c244ba7d4022da9be6071e33a37b715ed95c13c5[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Tue Oct 3 21:56:46 2017 +0800
+
+    fix tag count missing
+
+[33mcommit 423cd0377f7cebebd62a726e86c90dea2232c077[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Thu Sep 28 09:49:46 2017 +0800
+
+    fix #28
+
+[33mcommit 2da0c5142a4d259aa37626600a41ac37e3d0eb3b[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Mon Sep 25 21:54:04 2017 +0800
+
+    fix #27
+
+[33mcommit 2f04e57bf2ffc38c12712fac51c8283ddbddcc80[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Mon Sep 25 09:32:29 2017 +0800
+
+    fix #26
+
+[33mcommit ac9a22daaa418f0e1a210975c60d35e16042058e[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Sun Aug 20 17:26:01 2017 +0800
+
+    update to fit the new jekyll version
+
+[33mcommit 092e29c193e94db3162cb28871bc0cdab3773596[m
+Merge: 92a42f1 21b3954
+Author: Simpleyyt <simpleyyt@gmail.com>
+Date:   Fri Aug 18 10:57:10 2017 +0800
+
+    Merge pull request #13 from molver/master
+    
+    Update main.scss
+
+[33mcommit 21b3954a10e32e1e3290a5f5da23dc04a945c03b[m
+Author: molver <806218322@qq.com>
+Date:   Thu Aug 17 23:46:23 2017 +0800
+
+    Update main.scss
+
+[33mcommit 92a42f15bb52f043106257f0e3ec3a82a4d52219[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Tue Aug 15 09:05:15 2017 +0800
+
+    fix #11 tag not work in some case
+
+[33mcommit 8539a737cdfd5eb355b4aabdc7ec7715be5d213e[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Mon Aug 14 13:54:05 2017 +0800
+
+    fix #10 liquid doesn't render on page layout
+
+[33mcommit 6facb48c0d42beb24f2d2832c5750f8f0a7c270f[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Mon Aug 14 13:36:49 2017 +0800
+
+    add about page
+
+[33mcommit dcb6c7c75fc23eb76d535c1076431f58408e5899[m
+Merge: 1f1bea9 3a6b8c9
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Mon Aug 14 13:10:04 2017 +0800
+
+    Merge branch 'pwyq-master'
+
+[33mcommit 3a6b8c92cd06d5d03db9595a9bb6eaaf6a5e001d[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Mon Aug 14 13:08:25 2017 +0800
+
+    update _config.yml
+
+[33mcommit 8ad08a8be339df925fe58fee0935638ffd9c5460[m
+Author: Yanqing Wu <y433wu@uwaterloo.ca>
+Date:   Sun Aug 13 10:13:00 2017 -0400
+
+    Update _config.yml
+
+[33mcommit 1a44579e394ecdd2282219e6551f3e4c93376c0b[m
+Author: Yanqing Wu <y433wu@uwaterloo.ca>
+Date:   Sat Aug 12 11:16:15 2017 -0400
+
+    add hide-comment func for Disqus
+
+[33mcommit 1f1bea98cad7fe9ea72b349987d0e02c50481df9[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Sat Aug 12 11:11:13 2017 +0800
+
+    fix error when click on a tag/category with space
+
+[33mcommit d8bacb126a2daab13f869d3895b98d3cdd79f2e5[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Fri Aug 11 15:19:51 2017 +0800
+
+    fix tag/category bug when with space
+
+[33mcommit 1c96144647f113ab7c6fdf5b39d4014f38a0ec07[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Fri Aug 11 15:11:52 2017 +0800
+
+    remove jemoji for the toc bug
+
+[33mcommit 3ae5f747777541c3305306c7604915c3f833058c[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Thu Aug 10 09:24:02 2017 +0800
+
+    fix #5 prev post link not show
+
+[33mcommit 09ae29536f73f66a65ca09c8342cf83023fe85a6[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Thu Jul 27 23:41:24 2017 +0800
+
+    fix categories size
+
+[33mcommit 8864007a2e725d81f7503d3376ad8ecce9c46e45[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Sat Jul 22 19:03:56 2017 +0800
+
+    fix: add yitao's blog
+
+[33mcommit 447939c6ed45a069dd6350b6b1e02d3f3a7c78e2[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Sat Jul 22 16:05:26 2017 +0800
+
+    add separator
+
+[33mcommit bf6acd34d1d2e8283ab5763610efc6f692f7a4c7[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Sat Jul 22 15:30:42 2017 +0800
+
+    fix current time
+
+[33mcommit a9bbaa8c46de34384424303e1fa35cb258e5e8fc[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Sat Jul 22 15:29:57 2017 +0800
+
+    update instruction
+
+[33mcommit 15a1a1cfcd7972685186db963c6840d8a6c7456a[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Sat Jul 22 14:53:40 2017 +0800
+
+    enable comment on post
+
+[33mcommit e3422ee92a70eddb8ca73ff274284a6625cc7a70[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Sat Jul 22 14:49:44 2017 +0800
+
+    Revert "fix comments bug"
+    
+    This reverts commit 14a3724ccad45743241ee2b25e5e8c46d9d797ff.
+
+[33mcommit a32f89eebd24a2106b135d69b4d6899aa2c3fdef[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Sat Jul 22 13:37:47 2017 +0800
+
+    update gitter
+
+[33mcommit 00fa15de8a51c1dc08eae7527acb2994d806e5b1[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Sat Jul 22 11:44:56 2017 +0800
+
+    update readme
+
+[33mcommit 2165c455c2ef56e262b1220860f68594a1d267a5[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Sat Jul 22 11:41:40 2017 +0800
+
+    fix tag link
+
+[33mcommit 14a3724ccad45743241ee2b25e5e8c46d9d797ff[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Sat Jul 22 11:35:09 2017 +0800
+
+    fix comments bug
+
+[33mcommit f0da38e96a95e370a4f13076bb48e21a4100fc4b[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Fri Jul 21 17:19:11 2017 +0800
+
+    fix search.xml path
+
+[33mcommit 0b2eef11d31fe818f8afa0bf391d844a86a057c5[m
+Author: Yitao Yao <simpleyyt@gmail.com>
+Date:   Fri Jul 21 16:46:12 2017 +0800
+
+    first commit
